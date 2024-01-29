@@ -1,1 +1,1 @@
-[](img/thinking.gif)
+[](Img/thinking.gif)
